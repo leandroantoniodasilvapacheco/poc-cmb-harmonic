@@ -2,7 +2,7 @@
 Open-source project for the Principle of Cosmic Optimization (POC): Testing the Fractal-Harmonic Hypothesis in CMB data.
 
 ## Overview
-Manifesto: Fundamentals and roadmap (MANIFESTO.pdf).
+Manifesto: Fundamentals and roadmap (manifest.pdf).
 Research Log: Tests 1-4 with Python code (RESEARCH_LOG.md, code/ folder).
 Prereg OSF: V3 hypothesis testing (POC-CMB-Prereg-V3.md; upload to osf.io/registries for DOI).
 Paper: LaTeX arXiv-ready v2 (paper/ folder; submit to astro-ph.CO).

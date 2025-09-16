@@ -4,8 +4,8 @@ Open-source project for the Principle of Cosmic Optimization (POC): Testing the 
 ## Overview
 Manifesto: Fundamentals and roadmap (manifest.pdf).
 Research Log: Tests 1-4 with Python code (RESEARCH_LOG.md, code/ folder).
-Prereg OSF: V3 hypothesis testing (POC-CMB-Prereg-V3.md; upload to osf.io/registries for DOI).
-Paper: LaTeX arXiv-ready v2 (paper/ folder; submit to astro-ph.CO).
+Prereg OSF: DOI 10.17605/OSF.IO/VC59T.
+Paper: POC-CMB-Harmonic-Paper.pdf (paper/ folder; submit to astro-ph.CO).
 
 ## Replicability
 Clone: git clone https://github.com/leandroantoniodasilvapacheco/poc-cmb-harmonic.git

@@ -1,5 +1,5 @@
 # POC-CMB-Harmonic
-Open-source project for the Principle of Cosmic Optimization (POC): Testing the Fractal-Harmonic Hypothesis in CMB data.
+Open-source project for the POC-CMB-Harmonic: The Principle of Cosmic Optimization and Harmonic Multifractal Signatures in CMB Low-Multipole Data.
 
 ## Overview
 Manifesto: Fundamentals and roadmap (manifest.pdf).

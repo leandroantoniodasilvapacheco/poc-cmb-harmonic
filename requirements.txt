@@ -1,6 +1,9 @@
-numpy>=1.24.0
-scipy>=1.10.0
-pywavelets>=1.4.0
-healpy>=1.16.0
-astropy>=6.0.0
-matplotlib>=3.7.0
+# Requirements for POC-CMB-Harmonic: Multifractal CMB Analysis
+# Compatible with Python 3.8-3.12 (tested on Colab 2025)
+numpy==1.24.4        # Array operations, random seed, polyfit
+scipy==1.10.1        # Wavelet cwt ricker, stats (kstest, pearsonr)
+pywavelets==1.4.1    # Mexican hat wavelet for multifractal spectrum
+healpy==1.16.6       # HEALPix CMB map handling (read_map, query_disc)
+astropy==6.0.0       # FITS file reading, SkyCoord for coordinates
+matplotlib==3.7.2     # Plotting (histograms, f(α) spectrum)
+seaborn==0.12.2      # Plot styling (seaborn-v0_8-whitegrid)

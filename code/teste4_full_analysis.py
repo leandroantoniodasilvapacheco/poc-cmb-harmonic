@@ -1,3 +1,8 @@
+# POC-CMB-Harmonic Test 4: n=50 Patches Analysis
+# Expected: α_pico=0.988±0.015, ρ=0.54±0.021, p_asym=0.002, p_corr=0.007 (T), p_asym_E=0.041
+# Preregistered: OSF DOI:10.17605/OSF.IO/VC59T
+# Requirements: requirements.txt (Python 3.8-3.12)
+
 ```python
 # teste4_full_analysis.py - Main Script for Test 4: Large-Scale Analysis n=50 Real Patches + E-modes Cross-Check
 # Dependencies: healpy, astropy, pywavelets, scipy, matplotlib (pip install -r requirements.txt)

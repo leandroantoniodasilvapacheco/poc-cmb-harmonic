@@ -23,8 +23,10 @@ The POC posits the universe as a self-organizing informational system, imprintin
 3. Data: Download Planck SMICA FITS from [pla.esac.esa.int](https://pla.esac.esa.int/pla/aio/product-action?MAP.MAP_ID=COM_CMB_IQU-smica_2048_R3.00_full.fits).
 4. Run: `python code/teste4_full_analysis.py --seed 42` (output: α_pico=0.988±0.015, ρ=0.54±0.021, p=0.002/0.007).
 
-## Contribute
-Join our open science journey! Fork, open issues, or submit pull requests. Contact: leandroantoniodasilvapacheco@proton.me.
+## Contribute to POC-CMB-Harmonic
+Open issues or PRs using our templates for bugs, new features, or collaboration proposals (hypotheses, code, data). See Issues for templates.
+
+## Contact: leandroantoniodasilvapacheco@proton.me
 
 ## License
 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — Public domain, unrestricted reuse.

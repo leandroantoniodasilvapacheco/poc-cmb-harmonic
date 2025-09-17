@@ -7,7 +7,7 @@ Open-source project probing the **Principle of Cosmic Optimization (POC)**, seek
 ## Overview
 The POC posits the universe as a self-organizing informational system, imprinting a pre-inflationary "harmonic echo" in CMB anomalies (e.g., low-ℓ suppression ~20% p≈0.01, PR4 arXiv:2506.22795v1). Analysis of 50 equatorial patches (10° radius) yields >3σ evidence: α_pico=0.988±0.015, ρ(f(α),1/Φ)=0.54±0.021, p=0.002 (KS asymmetry), p=0.007 (correlation), E-modes p=0.041. Phases:
 - **Phase I:** Pipeline validation (SciPy cwt ricker, moments q=[-5,5]).
-- **Phase II:** Cold Spot analysis (01/10/2025, hp.query_disc raio 5° l=209° b=-57°).
+- **Phase II:** Cold Spot analysis (hp.query_disc raio 5° l=209° b=-57°).
 - **Phase III:** CAMB V(φ)=½m²φ² + (λ/Φ)φ⁴ (λ~10^{-120}, swampland Obied 2018 arXiv:1806.08362).
 
 ## Contents

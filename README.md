@@ -2,11 +2,6 @@
 
 [![DOI](https://img.shields.io/badge/OSF%20DOI-10.17605/OSF.IO/VC59T-blue)](https://osf.io/vc59t) [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.17148203.svg)](https://doi.org/10.5281/zenodo.17148203) [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-brightgreen)](https://creativecommons.org/publicdomain/zero/1.0/) 
 
-## Preregistration
-* **OSF Project DOI**: 10.17605/OSF.IO/VC59T (osf.io/vc59t) – Dynamic repository for collaborations, code, and data (SMICA maps from Planck 2018, ID: COM_CMB_IQU-smica_2048_R3.00_full.fits). Created: September 15, 2025; Last Updated: September 16, 2025; Contributor: LEANDRO ANTONIO DA SILVA PACHECO. This DOI ensures persistence for the editable project, always directing to the current content.
-
-* **OSF Registration DOI**: 10.17605/OSF.IO/M7HYX – Immutable preregistration snapshot (OSF Preregistration type, registered on September 16, 2025), ensuring transparency for analyses and hypotheses (e.g., H1/H0 golden ratio tests). Associated with project osf.io/vc59t; Internet Archive Link: https://archive.org/details/osf-registrations-m7hyx-v1. Note: Accessible via OSF login; make public for global indexing on doi.org and Google Scholar.
-  
 Open-source project probing the **Principle of Cosmic Optimization (POC)**, seeking harmonic multifractal signatures (α~0.618=1/Φ) in CMB low-multipole data (Planck 2018 SMICA, nside=2048).
 
 ## Overview
@@ -27,6 +22,11 @@ The POC posits the universe as a self-organizing informational system, imprintin
 3. Data: Download Planck SMICA FITS from [pla.esac.esa.int](https://pla.esac.esa.int/pla/aio/product-action?MAP.MAP_ID=COM_CMB_IQU-smica_2048_R3.00_full.fits).
 4. Run: `python code/teste4_full_analysis.py --seed 42` (output: α_pico=0.988±0.015, ρ=0.54±0.021, p=0.002/0.007).
 
+## Preregistration
+* **OSF Project DOI**: 10.17605/OSF.IO/VC59T (osf.io/vc59t) – Dynamic repository for collaborations, code, and data (SMICA maps from Planck 2018, ID: COM_CMB_IQU-smica_2048_R3.00_full.fits). Created: September 15, 2025; Last Updated: September 16, 2025; Contributor: LEANDRO ANTONIO DA SILVA PACHECO. This DOI ensures persistence for the editable project, always directing to the current content.
+
+* **OSF Registration DOI**: 10.17605/OSF.IO/M7HYX – Immutable preregistration snapshot (OSF Preregistration type, registered on September 16, 2025), ensuring transparency for analyses and hypotheses (e.g., H1/H0 golden ratio tests). Associated with project osf.io/vc59t; Internet Archive Link: https://archive.org/details/osf-registrations-m7hyx-v1. Note: Accessible via OSF login; make public for global indexing on doi.org and Google Scholar.
+  
 ## Update
 Zenodo v2.1: DOI 10.5281/zenodo.17148203 (Is new version of v1 DOI 10.5281/zenodo.17126843; OSF Projeto: 10.17605/OSF.IO/VC59T; Registro: 10.17605/OSF.IO/M7HYX)
 
